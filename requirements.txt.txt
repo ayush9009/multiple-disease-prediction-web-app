@@ -1,0 +1,6 @@
+streamlit run "C:\Users\DEEL\Desktop\Multiple Disease Prediction System\multiple disease pred.py"
+numpy
+pickle-mixin
+streamlit
+streamlit-option-menu
+scikit-learn
